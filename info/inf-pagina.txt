@@ -1,9 +1,21 @@
 titulo:Tu espacio de articulos artesanales.
 
 frase: Descubre el encanto y la elegancia de nuestros sombreros, huraches y accesorios.
+Menú de navegación:
+Inicio
+Servicio
+Portafolio
+Productos
+Especializados
+Contacto
 
-Servicios.
+Nuestro servicio:
+Productos Personalizados.
+Puedes personalizar tus artesanias o perdir algo inovador.
 
-Gleria.
+Precios al alcanze de tus bolsillos.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab autem enim illum dolorum nisi. Aspernatur.
 
-Expertos en: Diseño, Solución y Calidad.
+Gleria: llevara fotos de la elaboracion de las artesanías.
+
+Expertos en:  llevara imagenes con esta descripción: Diseño, Solución y Calidad.
